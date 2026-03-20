@@ -1,2 +1,3 @@
-# core-docs-site-d7uc
-A documentation website for modern development workflows
+# Core Docs Site D7Uc
+
+A documentation website for modern development workflows.
